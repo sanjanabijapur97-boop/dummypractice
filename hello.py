@@ -3,3 +3,6 @@ def add(a,b):
     return a+b
 a=10;
 b=20;
+def add(a,b):
+    """Return the sub a and b"""
+    return a-b
